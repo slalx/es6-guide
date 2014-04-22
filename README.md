@@ -7,6 +7,7 @@ EcmaScript6开发指南
 -
 
 * [ECMAScript current proposals](https://github.com/tc39/ecma262?utm_source=javascriptweekly&utm_medium=email)
+* [Modules/1.1](http://wiki.commonjs.org/wiki/Modules/1.1)
 
 文章
 -
